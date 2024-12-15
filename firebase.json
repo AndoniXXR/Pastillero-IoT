@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"gps-telegram","appId":"1:455146678071:android:4fd5e4b0ed819274995cb2","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"gps-telegram","configurations":{"android":"1:455146678071:android:4fd5e4b0ed819274995cb2","windows":"1:455146678071:web:02052fb46db8d56d995cb2"}}}}}}

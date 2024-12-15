@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "Pastillero_IoT_ESP32",
+			"path": "../../../../PlatformIO/Projects/Pastillero_IoT_ESP32"
+		}
+	],
+	"settings": {}
+}

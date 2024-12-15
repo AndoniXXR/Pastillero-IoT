@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "455146678071",
+    "firebase_url": "https://gps-telegram-default-rtdb.firebaseio.com",
+    "project_id": "gps-telegram",
+    "storage_bucket": "gps-telegram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455146678071:android:4b5bb209022ba27a995cb2",
+        "android_client_info": {
+          "package_name": "com.example.app_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA85Kle8rJP9clgEVryn_MvemkSuhYnSKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455146678071:android:506f593e8f4f46bb995cb2",
+        "android_client_info": {
+          "package_name": "com.example.app_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA85Kle8rJP9clgEVryn_MvemkSuhYnSKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455146678071:android:4fd5e4b0ed819274995cb2",
+        "android_client_info": {
+          "package_name": "com.example.app_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA85Kle8rJP9clgEVryn_MvemkSuhYnSKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
